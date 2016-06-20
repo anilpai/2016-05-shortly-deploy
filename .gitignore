@@ -21,3 +21,6 @@ node_modules/
 
 # WebStorm files
 .idea/
+
+# Ignore Db
+db/
