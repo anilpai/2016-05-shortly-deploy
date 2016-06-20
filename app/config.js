@@ -1,6 +1,6 @@
 var mongoose = require('mongoose');
 mongoURI = 'mongodb://localhost/shortly';
-mongoURI = 'mongodb://admin:admin@ds025782.mlab.com:25782/novi-bootcamp';
+//mongoURI = 'mongodb://admin:admin@ds025782.mlab.com:25782/novi-bootcamp';
 mongoose.connect(mongoURI);
 
 // Keep "mongod" process running on another terminal
